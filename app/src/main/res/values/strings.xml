@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Traffic Sign Survey App</string>
+    <string name="pass_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="login_logo_desc">Logo Login Page</string>
+    <string name="login_btn_text">Login</string>
+    <string name="login_reg_btn_text">Belum mempunyai Akun?</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_setting_text">Edit Profil Akun</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="reg_btn_text">Buat Akun baru</string>
+    <string name="reg_login_text">Sudah mempunyai Akun?</string>
+    <string name="reg_pass_text">Password</string>
+    <string name="reg_confirm_pass_text">Konfirmasi Password</string>
+    <string name="setup_name_hint">Nama Anda</string>
+    <string name="setup_save_btn">Simpan perubahan</string>
+    <string name="setup_name_hint_text">Nama Anda</string>
+    <string name="setup_btn_name_text">Simpan perubahan</string>
+    <string name="post_desc_hint">Tambah komentar</string>
+    <string name="new_post_btn_hint">Unggah</string>
+    <string name="bottom_home_text">Beranda</string>
+    <string name="bottom_about_text">Info</string>
+    <string name="bottom_ac_text">Akun</string>
+
+    <string-array name="spinner_isi">
+        <item>Rambu Lalu Lintas</item>
+        <item>Lampu Jalan</item>
+        <item>Keadaan Jalan</item>
+        <item>Keadaan Lalu Lintas Lancar</item>
+        <item>Keadaan Lalu Lintas Macet</item>
+    </string-array>
+
+    <string name="kategori1">Rambu Lalu Lintas</string>
+    <string name="kategori2">Lampu Jalan</string>
+    <string name="kategori3">Keadaan Jalan</string>
+    <string name="kategori4">Keadaan Lalu Lintas Lancar</string>
+    <string name="kategori5">Keadaan Lalu Lintas Macet</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

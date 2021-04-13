@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "230202045305",
+    "firebase_url": "https://surveyapp-5ff36.firebaseio.com",
+    "project_id": "surveyapp-5ff36",
+    "storage_bucket": "surveyapp-5ff36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230202045305:android:1a358838a65f815e",
+        "android_client_info": {
+          "package_name": "com.gunadarma.soni.surveyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230202045305-1hoectgm5kvlcges6j3h8durheao3ssp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gunadarma.soni.surveyapp",
+            "certificate_hash": "47c5695dd9e28bee4fd55e2837f847fa2e6bd4a9"
+          }
+        },
+        {
+          "client_id": "230202045305-prgs4geclcfjp87c51ta0jfu19ctf75u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgCjxlrOBFGAnIPesKbbl_HZ-Cg1u4chw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230202045305-prgs4geclcfjp87c51ta0jfu19ctf75u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
